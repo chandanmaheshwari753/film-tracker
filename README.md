@@ -20,7 +20,7 @@ Check out the live version here: https://film-tracker.vercel.app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/film-tracker.git
+   git clone https://github.com/chandanmaheshwari753/film-tracker.git
    ```
 
 2. **Install dependencies:**
